@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaizoTech
+- 👋 Hi, I’m Raizo
 - 👀 I’m interested in ... Web Development PHP
 - 🌱 I’m currently learning ... PHP 
 - 💞️ I’m looking to collaborate on ...
